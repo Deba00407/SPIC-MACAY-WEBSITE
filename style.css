@@ -106,6 +106,7 @@ div.Bgrd {
 .Display {
   display: flex;
   overflow: hidden;
+  margin-left: 20px;
 }
 
 @keyframes fade {
